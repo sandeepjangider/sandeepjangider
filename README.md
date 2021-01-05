@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :rainbow: I'm Sandeep Kumar Jangid
+### :rainbow: This is Sandeep Kumar Jangid
 Python | HTML | CSS | React
 
 🤔 I’m currently working on Python, Data Science, Machine Learning, Deep Learning.
