@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### :rainbow: This is Sandeep Kumar Jangid
 Python | HTML | CSS | React
-
+<!--
 🤔 I’m currently working on Python, Data Science, Machine Learning, Deep Learning.
 
-<!--
+
 **sandeepjangider/sandeepjangider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
