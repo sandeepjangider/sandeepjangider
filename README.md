@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### :rainbow: This is Sandeep Kumar Jangid
-Python | HTML | CSS | React
+Python | HTML | CSS | React | NodeJS-ExpressJS | Laravel | MySQL
 <!--
 🤔 I’m currently working on Python, Data Science, Machine Learning, Deep Learning.
 
